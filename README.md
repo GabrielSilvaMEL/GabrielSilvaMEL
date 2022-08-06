@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Gabriel Silva 
-- 🌱 Estudando PHP
-<br>
-
+<!-- 🌱 Estudando PHP-->
 <div>
   <a href="https://github.com/GabrielSilvaMEL">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaMEL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
