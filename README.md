@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gabriel Silva 
-🌱 Estudando PHP
+ - 🌱 Estudando PHP
 ##
 <div>
   <a href="https://github.com/GabrielSilvaMEL">
