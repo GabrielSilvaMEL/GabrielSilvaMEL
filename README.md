@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Gabriel Silva 
-<!-- 🌱 Estudando PHP-->
+🌱 Estudando PHP
+##
 <div>
   <a href="https://github.com/GabrielSilvaMEL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaMEL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -21,13 +22,5 @@
   <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
-<!--
-**GabrielSilvaMEL/GabrielSilvaMEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 Aprendendo PHP
-- 🤔 I’m looking for help with Github
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+
 
