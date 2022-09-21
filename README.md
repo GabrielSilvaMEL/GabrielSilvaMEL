@@ -1,10 +1,10 @@
 <img align="left" src="raven.png">
 
 ## Olá! <br>
-Eu sou um desenvolvedor full stack mas me descobrindo com uma maior afinidade com o **front-end**. <br>
+Eu sou o Gabriel, um desenvolvedor full stack mas me descobrindo com uma maior afinidade com o **front-end**. <br>
 Atualmente estou me graduando na FATEC e buscando um estágio na área.
 <br>
-Utilizo principlamente de JavaScript, CSS e HTML.
+Utilizo principamente JavaScript, CSS e HTML.
 <br>
 <div> 
   <a href="https://www.instagram.com/gabaallves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
