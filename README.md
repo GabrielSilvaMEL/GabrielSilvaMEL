@@ -1,7 +1,7 @@
 <img align="left" src="raven.png">
 
 ## Olá! <br>
-Eu sou um desenvolvedor full stack mas me descobrindo com uma maior afinidade com o **front-end**.
+Eu sou um desenvolvedor full stack mas me descobrindo com uma maior afinidade com o **front-end**. <br>
 Atualmente estou me graduando na FATEC e também, estou em busca de um estágio na área.
 <br>
 Utilizo principlamente de JavaScript, CSS e HTML.
