@@ -1,4 +1,4 @@
-<p align="left" img src="raven.png"> < /> </p>
+<img src="raven.png">
 ### Olá!
 Eu sou um desenvolvedor full stack mas com uma maior afinidade com o front-end.
 Atualmente estou me graduando na FATEC e também, estou em busca de um estágio na área.
