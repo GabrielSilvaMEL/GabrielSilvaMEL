@@ -1,7 +1,7 @@
 <img align="left" src="corvo.png">
 
 ## Olá! <br>
-Eu sou o Gabriel, **desenvolvedor full stack** porém descobrindo uma maior afinidade com o **front-end**. <br>
+Eu sou o Gabriel, desenvolvedor full stack porém descobrindo uma maior afinidade com o **front-end**. <br>
 Atualmente estou me graduando na FATEC e buscando um estágio na área.
 <br>
 Utilizo principalmente JavaScript, CSS e HTML.
