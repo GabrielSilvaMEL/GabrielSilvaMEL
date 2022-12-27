@@ -2,9 +2,9 @@
 
 ## Olá! <br>
 Eu sou o Gabriel, **desenvolvedor full stack**. <br>
-Atualmente estou me **graduando** na FATEC e buscando um estágio na área.
+Atualmente estou me **graduando** na FATEC e buscando um estágio na área da tecnologia.
 <br>
-Tenho experiência com JavaScript, CSS, HTML, MySQL, .NET e com o framework Laravel.
+Tenho experiência com JavaScript, CSS, HTML, REACT, MySQL, C#, PHP e com o framework Laravel.
 <br>
 
 <div> 
