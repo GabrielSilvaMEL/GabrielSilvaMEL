@@ -1,8 +1,8 @@
 <img align="left" src="corvo.png">
 
 ## Olá! <br>
-Eu sou o Gabriel, **desenvolvedor full stack**. <br>
-Atualmente estou me **graduando** na FATEC e estagiando como desenvolvedor Full-Stack.
+Eu sou o Gabriel. <br>
+Atualmente estou me **graduando** na FATEC e estagiando como **desenvolvedor full stack**.
 <br>
 Tenho experiência com JavaScript, CSS, HTML, REACT, MySQL, C#, PHP e com o framework Laravel.
 <br>
