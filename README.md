@@ -4,7 +4,7 @@
 Eu sou o Gabriel. <br>
 Formado em Análise e desenvolvimento de Sistemas
 <br>
-Tenho experiência com JavaScript, CSS, HTML, REACT, MySQL, My SQL Server, C#, ASP.NET, PHP e com o framework Laravel.
+Tenho experiência com JavaScript, CSS, HTML, REACT, MySQL, C#, ASP.NET, PHP e com o framework Laravel.
 <br>
 
 <div> 
