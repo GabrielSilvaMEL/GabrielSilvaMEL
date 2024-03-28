@@ -3,9 +3,8 @@
 ## Olá!
 <br>
 Eu sou o Gabriel. <br>
-Formado em Análise e desenvolvimento de Sistemas
-<br>
-Tenho experiência com REACT, C#, ASP.NET, PHP e com o framework Laravel.
+Atualmente atuando como <b>Desenvolvedor Web</b> na Secretaria Municipal de Saúde <br>
+C#|.NET|ASP|PHP|Laravel
 <br><br>  
 
 <div> 
