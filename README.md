@@ -3,7 +3,7 @@
 ## Olá!
 <br>
 Eu sou o Gabriel. <br>
-Atualmente atuando como <b>Desenvolvedor Web</b> na Secretaria Municipal de Saúde <br>
+<b>Desenvolvedor Web</b> na Secretaria Municipal de Saúde <br>
 C#|.NET|ASP|PHP|Laravel
 <br><br>  
 
