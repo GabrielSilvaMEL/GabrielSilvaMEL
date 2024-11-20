@@ -1,6 +1,6 @@
 <img align="left" src="corvo.png">
 
-<h3>Olá!</h3><br>
+<h3>Olá!</h3>
 Eu sou o Gabriel. <br>
 <b>Desenvolvedor Full-Stack</b><br>
 C#|.NET|ASP|PHP|Laravel|React
