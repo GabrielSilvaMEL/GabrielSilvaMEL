@@ -1,6 +1,6 @@
 <img align="left" src="corvo.png">
 
-<h4>Olá!</h4>
+<h4 style="margin:3px 0px">Olá!</h4>
 <hr style="margin:3px 0px">
 Eu sou o Gabriel. <br>
 <b>Desenvolvedor Full-Stack</b><br>
