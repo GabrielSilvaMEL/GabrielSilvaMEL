@@ -3,7 +3,7 @@
 ## Olá!
 <br>
 Eu sou o Gabriel. <br>
-<b>Desenvolvedor Full-Stack</b> 
+<b>Desenvolvedor Full-Stack</b><br>
 C#|.NET|ASP|PHP|Laravel|React
 <br><br>  
 
